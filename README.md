@@ -1,4 +1,4 @@
-git clone https://github.com/Hamsini-Brungi/Finalproject/
+git clone https://github.com/Hamsini-Brungi/Finalproject/tree/main
 g++ -std=c++11 secureHash256.cpp -o secureHash256
 ./secureHash256
 
