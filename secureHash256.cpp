@@ -5,7 +5,7 @@
 #include <string>
 #include <cstring>
 #include <cstdint>
-#include <algorithm> // For std::remove_if
+#include <algorithm> 
 
 class SecureHash256 {
 private:
