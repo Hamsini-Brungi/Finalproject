@@ -1,6 +1,6 @@
-git clone https://github.com/Hamsini-Brungi/Finalproject/tree/main
-g++ -std=c++11 secureHash256.cpp -o secureHash256
-./secureHash256
+git clone https://github.com/Hamsini-Brungi/Finalproject/tree/main <br>
+g++ -std=c++11 secureHash256.cpp -o secureHash256 <br>
+./secureHash256 <br>
 
 Choose an option:
 1. Hash a string
